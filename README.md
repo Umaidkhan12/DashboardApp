@@ -62,11 +62,3 @@ Click below to download the latest version of the app:
 - Replace images in `res/drawable/` with your own icons.
 - Customize colors in `res/values/colors.xml`.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributors
-
-- [Umaid Khan](https://github.com/Umaidkhan12)
-
